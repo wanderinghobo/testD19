@@ -4,3 +4,6 @@ mouse
 chicken
 pangolin
 Whale Shark
+Sea lion
+Elephant
+Bullet Ant
