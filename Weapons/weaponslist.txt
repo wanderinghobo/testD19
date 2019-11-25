@@ -1,0 +1,7 @@
+Shotgun
+Grenade
+Pistol
+AK47
+Sniper Rifle
+RPG Launcher
+Proximity Mine
